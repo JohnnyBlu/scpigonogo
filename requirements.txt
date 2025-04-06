@@ -1,0 +1,10 @@
+rpy2>=3.5.0
+matplotlib>=3.0.0
+pyvisa>=1.11.0
+
+# R dependencies
+# Ensure these are installed in your R environment:
+# - MASS
+# - graphics (usually base)
+# - stats (usually base)
+# - gonogo.R must be sourced manually; not an installable package
