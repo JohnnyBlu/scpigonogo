@@ -1,4 +1,5 @@
 # scpigonogo
+HEAD
 
 **Version 1.0.0**
 
@@ -41,3 +42,4 @@ python3 watch_plot.py --log data/log_lot_example.csv --mu 0.5 --sigma 0.1
 ---
 
 MIT License. Built for efficient electrical match sensitivity testing.
+ 6a12414f03f77f936967436993c2fba922a94207
